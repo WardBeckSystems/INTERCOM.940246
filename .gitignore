@@ -1,0 +1,11 @@
+# Ward-Beck archive repo: every document, photo, scan and drawing is kept (PDFs and images included).
+# Only OS clutter and build output are ignored.
+Thumbs.db
+.DS_Store
+desktop.ini
+__pycache__/
+*.pyc
+*.o
+*.obj
+*.tmp
+SOFTWARE/plugin/target/

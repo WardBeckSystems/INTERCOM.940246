@@ -1,0 +1,106 @@
+{
+ "drawing": "Consoles/1990-1999/940246/1994 - 940246 - DOC - 940246-03-002 - ENG NOTE REVOVE ALL BURRS AND SHARP EDGES.jpg",
+ "version": 1,
+ "trace": "_traces/884d3f8914b825f6.svg",
+ "sheet": {
+  "number": "940246-03-002",
+  "title": "Eng Note Revove All Burrs And Sharp Edges",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1295],
+  "mm": [431.8, 279.6],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [30.0, 6.9, 422.3, 189.8],
+ "outlines": {
+  "line": {"rings": 658, "straight": {"n": 4284, "mm": 8921.3}, "curved": {"n": 899, "mm": 1047.6}},
+  "text": {"rings": 236, "straight": {"n": 1365, "mm": 1320.0}, "curved": {"n": 433, "mm": 542.1}},
+  "tb": {"rings": 23, "straight": {"n": 204, "mm": 205.5}, "curved": {"n": 41, "mm": 49.4}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 4487, "straight": {"n": 5249, "mm": 4942.3}, "curved": {"n": 15, "mm": 11.3}},
+   "text": {"paths": 1445, "straight": {"n": 1814, "mm": 963.0}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 283, "straight": {"n": 327, "mm": 415.9}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 200,
+  "orientation": {"horizontal": {"n": 1956, "mm": 3013.1}, "vertical": {"n": 1866, "mm": 1326.6}, "diagonal": {"n": 3568, "mm": 1981.5}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [376.0, 10.6], "r": 1.1, "kind": "arc", "span": 234, "from": ["centre line"], "start": 109},
+  {"c": [281.7, 95.5], "r": 0.8, "kind": "arc", "span": 231, "from": ["centre line"], "start": 356},
+  {"c": [286.7, 76.4], "r": 0.7, "kind": "arc", "span": 201, "from": ["centre line"], "start": 200},
+  {"c": [283.9, 166.4], "r": 0.6, "kind": "arc", "span": 170, "from": ["centre line"], "start": 175}
+ ],
+ "boxes": [
+  {"mm": [66.5, 123.7, 294.7, 155.0], "w": 228.2, "h": 31.3, "from": "ring"},
+  {"mm": [144.0, 135.6, 165.6, 147.0], "w": 21.6, "h": 11.4, "from": "ring"},
+  {"mm": [221.3, 136.2, 242.0, 146.8], "w": 20.7, "h": 10.6, "from": "ring"},
+  {"mm": [262.3, 141.0, 280.9, 146.8], "w": 18.6, "h": 5.8, "from": "ring"},
+  {"mm": [119.0, 136.0, 139.7, 146.6], "w": 20.7, "h": 10.6, "from": "ring"},
+  {"mm": [170.1, 136.0, 190.9, 146.6], "w": 20.7, "h": 10.6, "from": "ring"},
+  {"mm": [195.6, 136.0, 216.5, 146.6], "w": 20.9, "h": 10.6, "from": "ring"},
+  {"mm": [80.1, 141.4, 98.7, 146.4], "w": 18.6, "h": 5.0, "from": "ring"},
+  {"mm": [262.5, 69.5, 299.9, 81.6], "w": 37.4, "h": 12.1, "from": "ring", "words": ["DETAIL"]},
+  {"mm": [145.7, 69.3, 183.1, 81.6], "w": 37.4, "h": 12.3, "from": "ring", "words": ["DETAIL"]},
+  {"mm": [374.6, 35.2, 416.9, 38.2], "w": 42.3, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [417.1, 35.4, 422.1, 38.2], "w": 5.0, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [368.5, 35.2, 374.4, 38.0], "w": 5.8, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [347.2, 26.3, 421.9, 35.0], "w": 74.7, "h": 8.6, "from": "ring", "words": ["WARD-BECK  SYSTEMS", "WBS"], "in_title_block": true},
+  {"mm": [364.9, 13.6, 422.1, 26.1], "w": 57.2, "h": 12.5, "from": "ring", "words": ["METER PANEL"]},
+  {"mm": [347.2, 23.1, 364.4, 25.9], "w": 17.3, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [347.2, 19.8, 364.4, 22.9], "w": 17.3, "h": 3.1, "from": "ring"},
+  {"mm": [347.2, 16.8, 364.4, 19.6], "w": 17.3, "h": 2.8, "from": "ring"},
+  {"mm": [347.2, 13.6, 364.4, 16.6], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [379.3, 7.3, 414.1, 13.4], "w": 34.8, "h": 6.1, "from": "ring", "words": ["940246", "03-002"]},
+  {"mm": [414.3, 7.3, 422.1, 13.4], "w": 7.8, "h": 6.0, "from": "ring"},
+  {"mm": [356.2, 10.6, 373.7, 13.2], "w": 17.5, "h": 2.6, "from": "ring", "words": ["DSC NC;"]},
+  {"mm": [356.2, 7.3, 373.7, 10.1], "w": 17.5, "h": 2.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 29,
+  "lines": [
+   {"mm": [65.0, 180.1, 70.4, 187.5], "text": "83"},
+   {"mm": [43.2, 167.3, 50.1, 169.5], "text": "DATM"},
+   {"mm": [313.1, 144.7, 319.1, 146.8], "text": "15z8"},
+   {"mm": [313.1, 141.4, 319.1, 143.6], "text": "1017"},
+   {"mm": [304.4, 133.2, 310.5, 135.4], "text": "0,257"},
+   {"mm": [320.6, 133.2, 326.4, 135.4], "text": "REC D"},
+   {"mm": [140.1, 116.4, 148.8, 120.7], "text": "470012"},
+   {"mm": [239.9, 81.2, 246.3, 84.5], "text": "0.9e5"},
+   {"mm": [157.4, 73.6, 168.2, 77.0], "text": "DETAIL"},
+   {"mm": [274.4, 73.6, 284.8, 77.5], "text": "DETAIL"},
+   {"mm": [121.8, 65.0, 129.3, 69.8], "text": "5080"},
+   {"mm": [49.9, 38.0, 65.6, 41.8], "text": "MATERIAL:"},
+   {"mm": [66.7, 38.6, 106.0, 42.0], "text": "ALUM ALLOY 0.080 THICK"},
+   {"mm": [49.9, 31.5, 102.8, 35.4], "text": "FINISH: SAND 120 Grit AND PAINT"},
+   {"mm": [61.7, 28.3, 98.5, 32.1], "text": "TEXTURED BEIGE (452C)"},
+   {"mm": [352.1, 28.3, 368.3, 32.6], "text": "WBS"},
+   {"mm": [375.5, 28.3, 419.1, 33.6], "text": "WARD-BECK  SYSTEMS"},
+   {"mm": [61.7, 25.7, 85.1, 29.1], "text": "MEXCOTE MNYL:"},
+   {"mm": [380.8, 17.5, 406.1, 21.8], "text": "METER PANEL"},
+   {"mm": [52.9, 15.8, 65.2, 17.9], "text": "TOLRANCES"},
+   {"mm": [348.0, 11.2, 354.5, 12.9], "text": "ECL"},
+   {"mm": [348.5, 7.3, 354.9, 11.2], "text": "1:2"},
+   {"mm": [356.2, 10.8, 365.3, 13.0], "text": "DSC NC;"},
+   {"mm": [380.8, 8.4, 411.5, 12.3], "text": "940246 03-002"}
+  ]
+ },
+ "title_block": {"mm": [343.5, 22.8, 427.7, 39.3], "from": "title-block words (training set)", "text": ["WBS", "WARD-BECK  SYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 940246-03-002, size B (assumed) 432 × 280 mm, 2000 × 1295 px traced (0.216 mm/px)",
+  "- **Ink extent:** 30–422 mm across, 7–190 mm up",
+  "- **Outlines:** line 658 rings, 4,284 straight (8,921 mm) / 899 curved (1,048 mm); text 236 rings, 1,365 straight (1,320 mm) / 433 curved (542 mm); tb 23 rings, 204 straight (206 mm) / 41 curved (49.4 mm)",
+  "- **Centre lines:** 6,215 paths (200 closed); straight 6,321 mm, curved 11.3 mm; horizontal 3,013 mm, vertical 1,327 mm, diagonal 1,982 mm",
+  "- **Circles and arcs:** 0 circles, 4 arcs",
+  "- **Closed boxes:** 23 (5 in the title block); named: DETAIL; DETAIL; METER PANEL; 940246 03-002; DSC NC;",
+  "- **Words (OCR):** 29 in 24 lines: 83 · DATM · 15z8 · 1017 · 0,257 · REC D · 470012 · 0.9e5 · DETAIL · DETAIL · 5080 · MATERIAL:",
+  "- **Title block:** (344, 23)–(428, 39) mm: WBS · WARD-BECK  SYSTEMS"
+ ]
+}
